@@ -5,9 +5,10 @@
 > Founder of [TechDiary](https://www.techdiary.dev) <br/>
 > Co-founder and backend dev of [Shunboi Audio book App](https://play.google.com/store/apps/details?id=com.shunboi)
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/md-foysal-ahammed-forhad-162346142/)   [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/king_rayhan)   [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/kingrayhan2)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/md-foysal-ahammed-forhad-162346142/)   [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/black_boy_3b9/?hl=en)   [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mdfoysalahammed.forhad)
 
-My name is Foysal and I'm a penestration tester & Bug Hunter.
+My name is Foysal and I'm a penestration tester & Bug Hunter.Proficient at web application/network security testing that could affect users in a dangerous way.
+Able to diagnosis computer hardware and software problems.
 
 
 ### My stacks
