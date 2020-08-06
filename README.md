@@ -41,7 +41,7 @@ I'm looking Looking forward to utilize my Web Development, Software Development 
 - 🎆 I'm Open for Opportunities.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashkranjan&hide_langs_below=1)](https://github.com/foysalcodeio)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foysalcodeio&hide_langs_below=1)](https://github.com/foysalcodeio)
 ![Foysal's Github Stats](https://github-readme-stats.vercel.app/api?username=foysalcodeio&show_icons=true)
 
 ### Trending Repositories 📖
