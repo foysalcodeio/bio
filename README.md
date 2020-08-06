@@ -1,12 +1,12 @@
 # bio
 
-### Hi there, I'm [Foysal!] (https://foysalprofile.github.io) 👋
+### Hi there, I'm [Foysal!] (https://foysalcodeio.github.io/foysal/) 👋
 
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/md-foysal-ahammed-forhad-162346142/)   [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/black_boy_3b9/?hl=en)   [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mdfoysalahammed.forhad)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=avinashkranjan)
+![Profile Views](https://komarev.com/ghpvc/?username=foysalcodeio)
 
 My Name is <b>Foysal Ahammed</b>, Computer Science & Engineering Sophomore at <b>Eastern University of BD</b> (Location: Ashulia, Dhaka, Bangladesh) I'm a MERN Stack Developer 🤓 | Ethical Hacker 😏  | Competitive Programmer🤠  | penestration tester & Bug Hunter. 🤭| Public Speaker 🥳 . 
 I'm looking Looking forward to utilize my Web Development, Software Development and Hacking Skills in a Dynamic Environment.Proficient at web application/network security testing that could affect users in a dangerous way. Able to diagnosis computer hardware and software problems. 🧑🏻
