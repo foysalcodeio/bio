@@ -26,7 +26,7 @@ I'm looking Looking forward to utilize my Web Development, Software Development 
 <a href="https://www.linkedin.com/in/md-foysal-ahammed-forhad-162346142/"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/foysalcodeio"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/github-logo.png" width="40" /></a>
 <a href="https://www.facebook.com/mdfoysalahammed.forhad"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/facebook.png" width="40" /></a>
-<a href="mailto:ranjan.avinash@hotmail.com"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/google-plus.png" width="40" /></a>
+<a href="mailto: hack.foysal1995@outlook.com"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/google-plus.png" width="40" /></a>
 <a href="https://twitter.com/foysal017203058"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/twitter.png" width="40" /></a>
 <a href="https://www.instagram.com/black_boy_3b9/?hl=en"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/instagram.png" width="40" /></a>
 
