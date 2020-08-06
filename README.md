@@ -7,7 +7,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=avinashkranjan)
 
-My Name is <b>Avinash Kr. Ranjan</b>, Computer Science & Engineering Sophomore at <b>Eastern University of BD</b> (Location: Ashulia, Dhaka, Bangladesh) I'm a MERN Stack Developer 🤓 | Ethical Hacker 😏  | Competitive Programmer🤠  | penestration tester & Bug Hunter. 🤭| Public Speaker 🥳 . 
+My Name is <b>Foysal Ahammed</b>, Computer Science & Engineering Sophomore at <b>Eastern University of BD</b> (Location: Ashulia, Dhaka, Bangladesh) I'm a MERN Stack Developer 🤓 | Ethical Hacker 😏  | Competitive Programmer🤠  | penestration tester & Bug Hunter. 🤭| Public Speaker 🥳 . 
 I'm looking Looking forward to utilize my Web Development, Software Development and Hacking Skills in a Dynamic Environment.Proficient at web application/network security testing that could affect users in a dangerous way. Able to diagnosis computer hardware and software problems. 🧑🏻
 
 
@@ -22,12 +22,12 @@ I'm looking Looking forward to utilize my Web Development, Software Development 
 ```
 
 
-<a href="https://www.linkedin.com/in/avinashkranjan"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/linkedin.png" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-foysal-ahammed-forhad-162346142/"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/avinashkranjan"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/github-logo.png" width="40" /></a>
-<a href="https://www.facebook.com/avinashranjan.1020/"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/facebook.png" width="40" /></a>
+<a href="https://www.facebook.com/mdfoysalahammed.forhad"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/facebook.png" width="40" /></a>
 <a href="mailto:ranjan.avinash@hotmail.com"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/google-plus.png" width="40" /></a>
 <a href="https://twitter.com/iavinashranjan"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/twitter.png" width="40" /></a>
-<a href="https://www.instagram.com/avinashkranjan7"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/instagram.png" width="40" /></a>
+<a href="https://www.instagram.com/black_boy_3b9/?hl=en"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/instagram.png" width="40" /></a>
 
 
 - 🎪 [Visual Portfolio](https://sourcerer.io/avinashkranjan)
