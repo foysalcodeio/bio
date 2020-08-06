@@ -44,9 +44,10 @@ I'm looking Looking forward to utilize my Web Development, Software Development 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foysalcodeio&hide_langs_below=1)](https://github.com/foysalcodeio)
 ![Foysal's Github Stats](https://github-readme-stats.vercel.app/api?username=foysalcodeio&show_icons=true)
 
+
 ### Trending Repositories 📖
 
 <a href="https://github.com/foysalcodeio/all_online_judge">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=Malware-with-Backdoor-and-Keylogger" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=foysalcodeio&repo=all_online_judge" />
 </a>
 
