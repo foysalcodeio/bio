@@ -31,17 +31,17 @@ I'm looking Looking forward to utilize my Web Development, Software Development 
 <a href="https://www.instagram.com/black_boy_3b9/?hl=en"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/instagram.png" width="40" /></a>
 
 
-- 🎪 [Visual Portfolio](https://sourcerer.io/avinashkranjan)
+- 🎪 [Visual Portfolio](https://sourcerer.io/foysalcodeio)
 - 🔭 I’m currently working as Freelancer 💻
 - 🌱 I’m currently learning Full Stack Development 
 - 👯 I’m looking to collaborate on any cool Project
 - 🤔 I’m looking for help with Open Source Project Development
-- 📫 You can reach at: ranjan.avinash@hotmail.com 
+- 📫 You can reach at: foysalahammedforhad@hotmail.com 
 - ⚡ Fun fact: Caffeine helps me Code.. ☕
 - 🎆 I'm Open for Opportunities.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashkranjan&hide_langs_below=1)](https://github.com/avinashkranjan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashkranjan&hide_langs_below=1)](https://github.com/foysalcodeio)
 ![Avinash's Github Stats](https://github-readme-stats.vercel.app/api?username=avinashkranjan&show_icons=true)
 
 ### Trending Repositories 📖
