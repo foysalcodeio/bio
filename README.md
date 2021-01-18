@@ -9,7 +9,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=foysalcodeio)
 
 My Name is <b>Foysal Ahammed</b>, Computer Science & Engineering Sophomore at <b>Eastern University of BD</b> (Location: Ashulia, Dhaka, Bangladesh) I'm a MERN Stack Developer 🤓 | Ethical Hacker 😏  | Competitive Programmer🤠  | penestration tester & Bug Hunter. 🤭| Public Speaker 🥳 . 
-I'm looking Looking forward to utilize my Web Development, Software Development and Hacking Skills in a Dynamic Environment.Proficient at web application/network security testing that could affect users in a dangerous way. Able to diagnosis computer hardware and software problems. 🧑🏻
+I'm looking Looking forward to utilize my Web Development and Hacking Skills in a Dynamic Environment. Proficient at web application/network security testing that could affect users in a dangerous way.🧑🏻
 
 
 ### My stacks
@@ -17,7 +17,7 @@ I'm looking Looking forward to utilize my Web Development, Software Development 
 ```Bug Hunter
 {
   "compititive programming" : ["c++", "c"],
-  "knowledgeable in security vulnerabilities" : ["XSS", "CSRF", "RCE"]
+  "knowledgeable in security vulnerabilities" : ["XSS", "CSRF", "RCE", "JWT"]
   "backend"  : ["Nestjs", "Express", "Laravel", ...more],
 }
 ```
@@ -28,7 +28,7 @@ I'm looking Looking forward to utilize my Web Development, Software Development 
 <a href="https://www.facebook.com/mdfoysalahammed.forhad"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/facebook.png" width="40" /></a>
 <a href="mailto: hack.foysal1995@outlook.com"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/google-plus.png" width="40" /></a>
 <a href="https://twitter.com/foysal017203058"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/twitter.png" width="40" /></a>
-<a href="https://www.instagram.com/black_boy_3b9/?hl=en"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/instagram.png" width="40" /></a>
+
 
 
 - 🎪 [Visual Portfolio](https://sourcerer.io/foysalcodeio)
