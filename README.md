@@ -17,7 +17,8 @@ I'm looking Looking forward to utilize my Web Development and Hacking Skills in 
 ```Bug Hunter
 {
   "compititive programming" : ["c++", "c"],
-  "knowledgeable in security vulnerabilities" : ["XSS", "CSRF", "RCE", "JWT"]
+  "knowledgeable in security vulnerabilities" : ["XSS", "CSRF", "RCE", "JWT", "IDOR"]
+  "front-end" : ["ReactJS"],
   "backend"  : ["Nestjs", "Express", "Laravel", ...more],
 }
 ```
